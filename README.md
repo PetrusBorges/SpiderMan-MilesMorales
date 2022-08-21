@@ -4,7 +4,11 @@ Repositório criado exclusivamente para treinar boas práticas em REACT + NPM/NP
 
 [Petrus Borges - Spider-Man: Miles Morales](https://spider-man-miles-morales-rho.vercel.app)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/105453766/185815681-666b2256-e4ee-46d9-a8f0-00c31103965b.gif)
+
+
+
+https://user-images.githubusercontent.com/105453766/185815721-bf4206d6-18ac-45e5-8bb7-8fa17967321f.mp4
+
 
 
 ## 📋 Projeto
