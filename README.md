@@ -2,7 +2,7 @@
 
 Repositório criado exclusivamente para treinar boas práticas em REACT + NPM/NPX + REACT SASS + REACT TILT + REACT GSAP adquiridas no curso FrontPUSH.
 
-[Petrus Borges - Blog de Posts](https://blog-posts-staart.vercel.app)
+[Petrus Borges - Spider-Man: Miles Morales](https://spider-man-miles-morales-rho.vercel.app)
 
 ![01](https://user-images.githubusercontent.com/105453766/183299285-c78b23d7-6e6e-4d2f-9baa-6851ad35f9e2.jpg)
 
