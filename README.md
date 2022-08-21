@@ -18,13 +18,9 @@ Neste site foi possível treinar conhecimentos fundamentais em REACT + NPM/NPX +
 
 > npm i
 
-> yarn i
-
 2- Para iniciar a aplicação:
 
 > npm start
-
-> yarn start
 
 ## 🛠️ Feito com
 
