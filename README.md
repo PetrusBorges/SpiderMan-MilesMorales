@@ -4,11 +4,8 @@ Repositório criado exclusivamente para treinar boas práticas em REACT + NPM/NP
 
 [Petrus Borges - Spider-Man: Miles Morales](https://spider-man-miles-morales-rho.vercel.app)
 
-![01](https://user-images.githubusercontent.com/105453766/183299285-c78b23d7-6e6e-4d2f-9baa-6851ad35f9e2.jpg)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/105453766/185815681-666b2256-e4ee-46d9-a8f0-00c31103965b.gif)
 
-![02](https://user-images.githubusercontent.com/105453766/183299288-a6263a50-06ce-46be-bf6e-5ab1ad3d2f3c.jpg)
-
-![03](https://user-images.githubusercontent.com/105453766/183299293-f2828732-24fa-48a2-b600-8e53eb658250.jpg)
 
 ## 📋 Projeto
 
