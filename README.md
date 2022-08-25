@@ -28,11 +28,11 @@ Neste site foi possível treinar conhecimentos fundamentais em REACT + NPM/NPX +
 
 ✔️ NPM/NPX
 
-✔️ REACT SASS
+✔️ REACT SASS => [SASS](https://create-react-app.dev/docs/adding-a-sass-stylesheet/)
 
-✔️ REACT TILT
+✔️ REACT TILT => [TILT](https://github.com/jonathandion/react-tilt)
 
-✔️ REACT GSAP
+✔️ REACT GSAP => [GSAP](https://github.com/bitworking/react-gsap)
 
 ## ✒️ Autores
 
