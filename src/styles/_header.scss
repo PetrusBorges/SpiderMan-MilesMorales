@@ -1,0 +1,138 @@
+@import './colors';
+
+header {
+  width: 100%;
+  padding-top: 16px;
+
+  .navbar {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .nav-menu {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+    
+      .logo {
+        
+        path {
+          fill: $red-light;
+          stroke: black;
+        }
+      }
+    
+      .nav-list {
+        list-style: none;
+        display: flex;
+
+        @include responsive(){
+          display: none;
+        }
+
+        li {
+          margin-left: 24px;
+    
+          .nav-link {
+            display: inline-block;
+            font-size: 14px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            font-weight: 200;
+            padding: 8px 16px;
+            position: relative;
+            color: $gray-3;
+            transition: .7s ease;
+          
+            &::after {
+              content: '';
+              display: block;
+              position: absolute;
+              top: -40px;
+              left: 50%;
+              width: 2px;
+              height: 0px;
+              background: linear-gradient(360deg, #EA1D22 0.01%, rgba(234, 29, 34, 0) 100%);
+              transition: .7s ease;
+            }
+          
+            &:hover {
+              color: $white-light;
+          
+              &::after {
+                height: 40px;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    .nav-social {
+      display: flex;
+
+      @include responsive(){
+        display: none;
+      }
+    
+      .social-logo {
+        cursor: pointer;
+        margin-left: 16px;
+    
+        path, circle {
+          transition: .7s ease;
+        }
+    
+        &:hover {
+          path, circle {
+            fill: $red-light;
+            transform: translate3d(0,-3px,0);
+          }
+        }
+      }
+    }
+
+    .bx {
+      display: none;
+      cursor: pointer;
+      
+      @include responsive(){
+        display: block;
+        width: 48px;
+        height: 48px;
+        border-radius: 8px;
+        position: relative;
+        background-color: transparent;
+
+        &::after {
+          content: '';
+          position: absolute;
+          top: 30%;
+          left: 15%;
+          width: 70%;
+          height: 10%;
+          border-radius: 20px;
+          background-color: $red-light;
+        }
+
+        &::before {
+          content: '';
+          position: absolute;
+          top: 60%;
+          left: 15%;
+          width: 70%;
+          height: 10%;
+          border-radius: 20px;
+          background-color: $red-light;
+        }
+      }
+    }
+  }
+}
+
+
+
+
+
